@@ -1,0 +1,20 @@
+<map id="algorithm" name="algorithm">
+<area shape="rect" id="Node000001" title="Main function of the algorithm simulating the logic circuit." alt="" coords="5,153,80,179"/>
+<area shape="rect" id="Node000002" href="$algorithm_8cpp.html#a8fad9569d5dfed91041cac1cced08392" title="Function for passing a signal through logic gates." alt="" coords="128,153,240,179"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,164,112,164,112,169,80,169"/>
+<area shape="poly" id="edge7_Node000002_Node000002" title=" " alt="" coords="160,154,156,145,159,135,168,129,184,127,200,129,209,136,206,140,198,134,184,132,170,134,163,138,161,144,165,152"/>
+<area shape="rect" id="Node000003" href="$gates_8cpp.html#a9bde832abda6ff14fd2b3f7792d65d54" title="Function implementing the AND gate." alt="" coords="293,5,342,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="193,151,232,101,286,40,287,40,291,43,290,44,236,105,197,154"/>
+<area shape="rect" id="Node000004" href="$gates_8cpp.html#a57572202c6ed53ba33aae578f60c601b" title="Function implementing the NAND gate." alt="" coords="288,55,347,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="201,151,285,88,288,92,204,155"/>
+<area shape="rect" id="Node000005" href="$gates_8cpp.html#ae01b5d7a2f4e50e1e37adef7986766c2" title="Function implementing the NOT (NEG) gate." alt="" coords="293,104,342,130"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="220,150,277,129,279,134,222,155"/>
+<area shape="rect" id="Node000006" href="$gates_8cpp.html#ad78768139101fd2bc36ac82b8f8f4e6c" title="Function implementing the NOR gate." alt="" coords="292,153,343,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="240,164,277,164,277,169,240,169"/>
+<area shape="rect" id="Node000007" href="$gates_8cpp.html#adaeb4374816c3a2afedcbdbcb5caaaf7" title="Function implementing the OR gate." alt="" coords="298,203,338,228"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="222,177,284,201,282,206,220,182"/>
+<area shape="rect" id="Node000008" href="$gates_8cpp.html#aaf71cdc11d24aceb7dcb1abea0dc1aeb" title="Function implementing the XNOR gate." alt="" coords="288,252,347,278"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="204,177,288,240,285,244,201,182"/>
+<area shape="rect" id="Node000009" href="$gates_8cpp.html#afed320fb4dabb65f7873f50bd5106226" title="Function implementing the XOR gate." alt="" coords="293,301,342,327"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="197,178,236,228,290,288,291,289,287,293,286,292,232,231,193,181"/>
+</map>

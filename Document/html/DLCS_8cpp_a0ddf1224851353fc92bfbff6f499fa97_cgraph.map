@@ -1,0 +1,40 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,227,55,252"/>
+<area shape="rect" id="Node000002" href="$algorithm_8cpp.html#ae0106cc5952cbb8072787c5aaea160ee" title="Main function of the algorithm simulating the logic circuit." alt="" coords="122,67,196,92"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="38,225,101,138,132,102,136,106,105,141,42,228"/>
+<area shape="rect" id="Node000011" href="$files__operation_8cpp.html#ac26a55a2489e1952c9de65c1dc993017" title="Generates and saves the result file with simulation results." alt="" coords="108,152,210,178"/>
+<area shape="poly" id="edge4_Node000001_Node000011" title=" " alt="" coords="46,224,101,187,109,182,112,187,104,191,49,229"/>
+<area shape="rect" id="Node000012" href="$files__testing_8cpp.html#a8d774393406b11338d9c34f5db86fe85" title="Tests the validity of the first input file." alt="" coords="112,201,206,227"/>
+<area shape="poly" id="edge5_Node000001_Node000012" title=" " alt="" coords="55,232,96,224,97,229,56,237"/>
+<area shape="rect" id="Node000018" href="$protocols_8cpp.html#ac5c35e88b3825ce0f2d0ecf47d5d18c9" title="Displays a short help message about program usage." alt="" coords="118,251,200,276"/>
+<area shape="poly" id="edge12_Node000001_Node000018" title=" " alt="" coords="56,241,103,250,102,256,55,247"/>
+<area shape="rect" id="Node000019" href="$protocols_8cpp.html#a1960e92811671750b84996139e8a6138" title="Processes command&#45;line arguments and sets appropriate flags and file paths." alt="" coords="122,401,196,427"/>
+<area shape="poly" id="edge13_Node000001_Node000019" title=" " alt="" coords="43,251,141,387,137,390,39,254"/>
+<area shape="rect" id="Node000024" href="$files__testing_8cpp.html#a1531f61f63de93f98b69988e0e450f17" title="Tests the validity of the second input file." alt="" coords="103,300,215,326"/>
+<area shape="poly" id="edge20_Node000001_Node000024" title=" " alt="" coords="50,250,104,287,112,291,109,295,101,291,47,255"/>
+<area shape="rect" id="Node000003" href="$algorithm_8cpp.html#a8fad9569d5dfed91041cac1cced08392" title="Function for passing a signal through logic gates." alt="" coords="272,29,384,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="196,69,256,55,257,60,197,74"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="302,30,297,21,300,11,311,5,328,3,347,5,357,12,354,16,345,10,328,8,312,10,304,15,302,20,306,28"/>
+<area shape="rect" id="Node000013" href="$error__file_8cpp.html#a6ce2d65e90544cc226c371cf3d844c58" title="Generates an operational error log file." alt="" coords="279,300,377,326"/>
+<area shape="poly" id="edge6_Node000012_Node000013" title=" " alt="" coords="197,225,217,236,232,249,241,262,250,274,265,287,271,291,268,295,261,291,246,278,237,265,228,253,213,240,195,230"/>
+<area shape="rect" id="Node000014" href="$files__testing_8cpp.html#afc66dec979700f289159e25b4b8c6b9a" title="Checks if there is a signal loop in the logic circuit." alt="" coords="284,79,373,104"/>
+<area shape="poly" id="edge7_Node000012_Node000014" title=" " alt="" coords="197,199,213,188,229,170,236,151,245,133,261,114,268,109,271,113,265,117,249,135,241,154,233,173,217,192,200,203"/>
+<area shape="rect" id="Node000015" href="$files__testing_8cpp.html#ac6dc8587c13e37d513fe049dbad23e09" title="Checks if the provided gate is supported." alt="" coords="284,128,373,154"/>
+<area shape="poly" id="edge8_Node000012_Node000015" title=" " alt="" coords="191,198,214,188,262,162,273,157,276,162,264,167,216,193,193,203"/>
+<area shape="rect" id="Node000016" href="$files__testing_8cpp.html#a5fb545ddc5b838130046d5acb26f72e9" title="Passes a signal through logic gates and checks its validity." alt="" coords="272,201,384,227"/>
+<area shape="poly" id="edge9_Node000012_Node000016" title=" " alt="" coords="207,212,257,212,257,217,207,217"/>
+<area shape="rect" id="Node000017" href="$warning__file_8cpp.html#a7dc2446f006094efea3a9b6f3eb0eafc" title="Generates a warning log file." alt="" coords="269,251,387,276"/>
+<area shape="poly" id="edge11_Node000012_Node000017" title=" " alt="" coords="206,225,268,243,266,248,205,230"/>
+<area shape="poly" id="edge10_Node000016_Node000016" title=" " alt="" coords="302,202,297,193,300,183,311,177,328,175,347,177,357,184,354,188,345,182,328,180,312,182,304,187,302,192,306,200"/>
+<area shape="rect" id="Node000020" href="$protocols_8cpp.html#aea412abbfc8df1850b25e9f38e7f8d2c" title="Checks if a given argument matches one of the specified flags." alt="" coords="441,451,523,476"/>
+<area shape="poly" id="edge14_Node000019_Node000020" title=" " alt="" coords="195,398,236,386,287,377,341,375,368,379,394,386,433,409,463,437,459,441,430,413,392,391,367,384,341,381,287,382,237,391,196,403"/>
+<area shape="rect" id="Node000021" href="$protocols_8cpp.html#a97ee70a8770dc30d06c744b24eb2fcfc" title="Displays detailed help about program usage." alt="" coords="306,401,351,427"/>
+<area shape="poly" id="edge15_Node000019_Node000021" title=" " alt="" coords="196,412,290,412,290,417,196,417"/>
+<area shape="rect" id="Node000022" href="$protocols_8cpp.html#a0c9e8d9132c4850bf4264f8445b7767d" title=" " alt="" coords="267,451,389,476"/>
+<area shape="poly" id="edge16_Node000019_Node000022" title=" " alt="" coords="197,422,268,443,266,448,196,427"/>
+<area shape="rect" id="Node000023" href="$protocols_8cpp.html#a6e8f20c4b6f1be25edff3fbc46bb1696" title=" " alt="" coords="263,500,393,526"/>
+<area shape="poly" id="edge18_Node000019_Node000023" title=" " alt="" coords="177,425,216,455,264,487,273,491,271,496,262,491,213,460,174,430"/>
+<area shape="poly" id="edge17_Node000022_Node000020" title=" " alt="" coords="390,461,426,461,426,466,390,466"/>
+<area shape="poly" id="edge19_Node000023_Node000020" title=" " alt="" coords="370,497,426,479,428,484,372,502"/>
+<area shape="poly" id="edge21_Node000024_Node000013" title=" " alt="" coords="216,310,264,310,264,316,216,316"/>
+</map>

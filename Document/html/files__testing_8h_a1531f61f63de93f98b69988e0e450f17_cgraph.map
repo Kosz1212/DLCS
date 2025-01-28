@@ -1,0 +1,5 @@
+<map id="SecondFileTest" name="SecondFileTest">
+<area shape="rect" id="Node000001" title="Tests the validity of the second input file." alt="" coords="5,5,118,31"/>
+<area shape="rect" id="Node000002" href="$error__file_8cpp.html#a6ce2d65e90544cc226c371cf3d844c58" title="Generates an operational error log file." alt="" coords="166,5,264,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,16,150,16,150,21,118,21"/>
+</map>

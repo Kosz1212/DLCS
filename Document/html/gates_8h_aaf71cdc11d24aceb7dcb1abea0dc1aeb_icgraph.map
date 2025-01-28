@@ -1,0 +1,8 @@
+<map id="XNOR" name="XNOR">
+<area shape="rect" id="Node000001" title="Function implementing the XNOR gate." alt="" coords="288,29,347,55"/>
+<area shape="rect" id="Node000002" href="$algorithm_8cpp.html#a8fad9569d5dfed91041cac1cced08392" title="Function for passing a signal through logic gates." alt="" coords="128,29,240,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="273,45,241,45,241,40,273,40"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="206,16,198,10,184,8,170,10,163,14,161,20,165,28,160,30,156,21,159,11,168,5,184,3,200,5,209,12"/>
+<area shape="rect" id="Node000003" href="$algorithm_8cpp.html#ae0106cc5952cbb8072787c5aaea160ee" title="Main function of the algorithm simulating the logic circuit." alt="" coords="5,29,80,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,45,80,45,80,40,112,40"/>
+</map>

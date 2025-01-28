@@ -1,0 +1,13 @@
+<map id="protocols" name="protocols">
+<area shape="rect" id="Node000001" title="Processes command&#45;line arguments and sets appropriate flags and file paths." alt="" coords="5,57,80,82"/>
+<area shape="rect" id="Node000002" href="$protocols_8cpp.html#aea412abbfc8df1850b25e9f38e7f8d2c" title="Checks if a given argument matches one of the specified flags." alt="" coords="306,81,387,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,54,89,33,127,16,163,7,193,3,223,6,259,17,297,39,327,67,324,71,294,43,257,21,222,11,193,8,164,12,129,21,91,38,61,58"/>
+<area shape="rect" id="Node000003" href="$protocols_8cpp.html#a97ee70a8770dc30d06c744b24eb2fcfc" title="Displays detailed help about program usage." alt="" coords="170,31,216,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="80,61,155,48,156,53,80,66"/>
+<area shape="rect" id="Node000004" href="$protocols_8cpp.html#a0c9e8d9132c4850bf4264f8445b7767d" title=" " alt="" coords="132,81,254,106"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="80,73,117,79,116,84,80,78"/>
+<area shape="rect" id="Node000005" href="$protocols_8cpp.html#a6e8f20c4b6f1be25edff3fbc46bb1696" title=" " alt="" coords="128,130,258,156"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="66,81,129,117,139,121,137,126,126,121,63,85"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="254,91,291,91,291,96,254,96"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="235,127,291,109,292,114,236,132"/>
+</map>

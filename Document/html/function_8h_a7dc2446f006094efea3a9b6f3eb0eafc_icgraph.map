@@ -1,0 +1,7 @@
+<map id="WarningFileInput" name="WarningFileInput">
+<area shape="rect" id="Node000001" title="Generates a warning log file." alt="" coords="245,5,363,31"/>
+<area shape="rect" id="Node000002" href="$files__testing_8cpp.html#a8d774393406b11338d9c34f5db86fe85" title="Tests the validity of the first input file." alt="" coords="103,5,197,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,21,197,21,197,16,229,16"/>
+<area shape="rect" id="Node000003" href="$DLCS_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,5,55,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

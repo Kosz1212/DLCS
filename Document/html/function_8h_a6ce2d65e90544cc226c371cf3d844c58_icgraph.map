@@ -1,0 +1,10 @@
+<map id="ErrorFileInput" name="ErrorFileInput">
+<area shape="rect" id="Node000001" title="Generates an operational error log file." alt="" coords="263,31,361,56"/>
+<area shape="rect" id="Node000002" href="$files__testing_8cpp.html#a8d774393406b11338d9c34f5db86fe85" title="Tests the validity of the first input file." alt="" coords="112,5,206,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,36,206,29,207,23,248,30"/>
+<area shape="rect" id="Node000004" href="$files__testing_8cpp.html#a1531f61f63de93f98b69988e0e450f17" title="Tests the validity of the second input file." alt="" coords="103,55,215,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="248,56,216,61,215,56,248,51"/>
+<area shape="rect" id="Node000003" href="$DLCS_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,31,55,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,33,56,41,55,36,96,28"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="87,57,55,51,56,45,88,51"/>
+</map>
