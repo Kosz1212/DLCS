@@ -74,4 +74,4 @@ The **DLCS - Digital Logic Circuit Simulator** project has been successfully com
 - Ensure that you have installed the necessary tools: a C++ compiler (e.g., g++), **Doxygen** for documentation generation, and **Graphviz** if you want diagram generation in the documentation.
 - If you want to automatically open the HTML documentation in your browser, you can uncomment the relevant `xdg-open` lines in the build scripts.
 
-Should you have any questions, feel free to contact us!
+Should you have any questions, feel free to contact me!
